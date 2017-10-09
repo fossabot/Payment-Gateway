@@ -1,4 +1,3 @@
-
 GoUrl.io Cryptocoin Payment Gateway API
 -----------------------------------------
 
@@ -7,6 +6,7 @@ Version 1.5.0
 **Accept Bitcoin, Litecoin, Dogecoin, Speedcoin, Darkcoin, Vertcoin, Reddcoin, Feathercoin, Vericoin, Potcoin Payments Online on your website**
 
 # ![Payment-Gateway](https://gourl.io/images/gateway.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FPayment-Gateway.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FPayment-Gateway?ref=badge_shield)
 
 
 Our Payment Gateway with Instant Checkout allows you to easily organise your website -
@@ -198,3 +198,6 @@ PHP Examples / Live Demo :
 
 
 .
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FPayment-Gateway.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FPayment-Gateway?ref=badge_large)
